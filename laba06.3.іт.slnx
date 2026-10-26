@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../UnitTest6.3.іт/UnitTest6.3.іт.vcxproj" />
+  <Project Path="laba06.3.іт.vcxproj" />
+</Solution>
